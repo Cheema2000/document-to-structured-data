@@ -1,0 +1,19 @@
+{
+  "source_file": "table_1.csv",
+  "generated_at": "2025-12-28T21:45:01.966241",
+  "row_count": 1,
+  "columns": [
+    "invoice_no",
+    "customer_no",
+    "invoice_period",
+    "date"
+  ],
+  "data": [
+    {
+      "invoice_no": 123100401,
+      "customer_no": 12345,
+      "invoice_period": "01.02.2024 - 29.02.2024",
+      "date": "1. M\u00e4rz 2024"
+    }
+  ]
+}
