@@ -1,0 +1,9 @@
+{
+  "source_file": "table_5.json",
+  "generated_at": "2025-12-28T21:58:34.081389",
+  "summary": "This table contains 2 records. It includes 24 numeric fields (t1, unnamed_0, t2) and 1 descriptive fields (transaction_fee_seg).",
+  "insights": [
+    "Numeric columns may be used for aggregation and trend analysis.",
+    "Text fields can be used for categorization or search."
+  ]
+}

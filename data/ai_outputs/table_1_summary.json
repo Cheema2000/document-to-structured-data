@@ -1,0 +1,9 @@
+{
+  "source_file": "table_1.json",
+  "generated_at": "2025-12-28T21:58:34.080696",
+  "summary": "This table contains 1 records. It includes 2 numeric fields (invoice_no, customer_no) and 2 descriptive fields (invoice_period, date).",
+  "insights": [
+    "Numeric columns may be used for aggregation and trend analysis.",
+    "Text fields can be used for categorization or search."
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "source_file": "table_4.json",
+  "generated_at": "2025-12-28T21:58:34.081555",
+  "summary": "This table contains 1 records. It includes 12 numeric fields (10, 0, 99) and 2 descriptive fields (useraccount1, 15430_).",
+  "insights": [
+    "Numeric columns may be used for aggregation and trend analysis.",
+    "Text fields can be used for categorization or search."
+  ]
+}

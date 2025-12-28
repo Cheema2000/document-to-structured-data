@@ -1,0 +1,8 @@
+{
+  "source_file": "table_3.json",
+  "generated_at": "2025-12-28T21:58:34.080984",
+  "summary": "This table contains 1 records. It includes 0 numeric fields () and 13 descriptive fields (request_sections, t1, t2).",
+  "insights": [
+    "Text fields can be used for categorization or search."
+  ]
+}

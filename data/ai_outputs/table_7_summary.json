@@ -1,0 +1,9 @@
+{
+  "source_file": "table_7.json",
+  "generated_at": "2025-12-28T21:58:34.079726",
+  "summary": "This table contains 12 records. It includes 6 numeric fields (4, 0, 9) and 2 descriptive fields (not_specified, 1582_).",
+  "insights": [
+    "Numeric columns may be used for aggregation and trend analysis.",
+    "Text fields can be used for categorization or search."
+  ]
+}
